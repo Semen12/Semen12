@@ -2,14 +2,14 @@
 
 <!--
 **Semen12/Semen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<p align="center">
-  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-width: 50%; height: auto;">
-</p>
+>
 
 # Привет, я Семён Кондауров👋
 
 ## 🚀 О себе
-Я Frontend-разработчик, увлеченный созданием удобных, интерактивных и производительных веб-приложений. Работаю с JavaScript, TypeScript и популярными фреймворками.
+<div>Я Frontend-разработчик, увлеченный созданием удобных, интерактивных и производительных веб-приложений. Работаю с JavaScript, TypeScript и популярными фреймворками.<p align="center">
+  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-width: 50%; height: auto;">
+</p</div>
 
 
 
