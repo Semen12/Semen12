@@ -3,7 +3,7 @@
 <!--
 **Semen12/Semen12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="center">
-  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" width="100%">
+  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-width: 50%; height: auto;">
 </p>
 
 # Привет, я Семён Кондауров👋
