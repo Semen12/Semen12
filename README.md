@@ -8,11 +8,6 @@
 
 ## 🚀 О себе
 Я Frontend-разработчик, увлеченный созданием удобных, интерактивных и производительных веб-приложений. Работаю с JavaScript, TypeScript и популярными фреймворками.
-<p align="center">
-  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-width:50% ; max-height: 50%;">
-</p</div>
-
-
 
 ## 🛠 Технологии и инструменты
 
@@ -29,7 +24,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
+<p align="center">
+  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="width=50%;">
+</p>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=github)
 
