@@ -27,6 +27,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=github)
 
 <!--## 📈 GitHub-статистика
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semen12&layout=compact&theme=radical)
