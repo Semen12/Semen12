@@ -24,9 +24,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-<p align="center">
-  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-height:30%;max-height:30%;">
-</p>
+
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=github)
 
@@ -37,4 +35,7 @@
 ## 🌍 Где меня найти?
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Aquarius_web)
 
+<p align="center">
+  <img src="https://github.com/Semen12/Semen12/blob/main/created.png" alt="Frontend Developer Banner" style="max-height:30%;max-height:30%;">
+</p>
 
