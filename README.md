@@ -27,7 +27,7 @@
 
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=github)](https://t.me/Aquarius_web)
-![Visitor Count](https://profile-counter.glitch.me/{Semen12}/count.svg)
+
 <!--## 📈 GitHub-статистика
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semen12&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Semen12&show_icons=true&theme=radical)-->
